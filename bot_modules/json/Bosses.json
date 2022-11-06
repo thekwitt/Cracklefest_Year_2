@@ -1,0 +1,32 @@
+{
+  "chicken": {
+	  "name": "Corrupted Giant Chicken",
+    "description": "Once a normal farm chicken but now corrupted by the storm, this giant wild chicken roams around the country of Coneyford with little thought to each action. Even after the storm subsided, this chicken continues to be immune to any purification and causing ongoing destruction.\n\nDue to the seal being broken on the Crimson Grove, the chicken is now under the control of the Crimson Wizard. The only way to stop the chicken is to defeat it in divine combat. Although, that doesn’t seem like an easy challenge.",
+    "cheatsheet" : "__Phase 1__\nA 3 button battle with occasional dodge action moments.\n\n__Phase 2 (35%)__\nA 4 button hit battle.",
+    "image": "https://cdn.discordapp.com/attachments/782835367085998080/958617816037228565/Chicken_Boss_1.png"
+  },
+  "sentinel": {
+	  "name": "Arcane Sentinel",
+    "description": "During the invasion of Coneyford, The Crimson Wizard created champions to invade and capture resources in order to prepare for total domination. These warriors are called arcane sentinels, living pieces of armor crafted and bound by arcane energy.",
+    "cheatsheet" : "__Phase 1__\nA 5 button hit battle.\n\n__Phase 2 (25%)__\nA 3 button hit battle that have frequent vanish moments.",
+    "image": "https://cdn.discordapp.com/attachments/782835367085998080/958946639681294377/Sentinel_Boss_1.png"
+  },
+  "guardian": {
+	  "name": "Crystal Guardian",
+    "description": "To preserve resources and eggs being taken back by the conoras, The Crimson Wizard created keeps of the Crimson Grove called Crystal Guardians. Crystal Guardians are hardened and solidified shards of living corruption.\n\nThough, they are sentient beings, they do not have much passion to do anything else but guard grove’s limited supply of eggs.",
+    "cheatsheet" : "__Phase 1__\nA 3 button hit battle. (Misses heal boss) \n\n__Phase 2 (60%)__\nA 5 Button Battle with occasional cast interrupt actions (Misses heal boss)",
+    "image": "https://cdn.discordapp.com/attachments/782835367085998080/958617815525507102/Crystal_Boss_1.png"
+  },
+  "chad": {
+  	"name": "Rabbit Chad",
+    "description": "The rabbit chad’s real name is Oscar the Bartender. He was once a proud and beloved Coney who was highly respected by his people but was consumed by the horrific power of arcane energy. Although not forced upon, his goal and passion were to be the most Chad and Swole Coney who ever lived and despite the results, he got from his training, he was not happy with what he was limited to.\n\nAfter accepting the corrupted arcane into his body, he was rejected by Jethro and his people even with thorough explanations. Frustrated and broken, Oscar destroyed several villages and towns before returning the hand of The Crimson Wizard. Now being impatient, Oscar seeks a challenge to test his power, not even the Wizard wished to fulfill his wish so he roams the lands, trying to find a battle that aimed to his expectations.",
+    "cheatsheet" : "__Phase 1__\nA 2x2 grid counter attack battle.\n\n__Phase 2 (55%)__\nA 4 button hit battle.",
+    "image": "https://cdn.discordapp.com/attachments/782835367085998080/958617816569888828/Chad_Bunny_1.png"
+  },
+  "crimson": {
+  	"name": "Crimson Wizard",
+    "description": "The Crimson Wizard is the embodiment of living arcane compiled over thousands of years in the arcane void. The body of arcane energy slowly turned into corruption which formed the now powerful and feared Crimson Wizard.\n\nThe Wizard decided to explore realms beyond his very own and channeled his energy into a portal to take him into the world of mortal living. After passing through, the essence from the Arcane Void shattered part of Coneyford that would today be the Crimson Grove.\n\nThe overall goal of the Crimson Wizard is to engulf all of creation into its domain and adapt to the new and more powerful lifestyle.",
+    "cheatsheet" : "__Phase 1__\nA 2x2 grid counter attack battle.\n\n__Phase 2 (60%)__\nA 5 button hit battle that have frequent vanish moments.\n\n__Phase 2 (20%)__\nA 3x3 grid button hit battle.",
+    "image": "https://cdn.discordapp.com/attachments/782835367085998080/958617817215815680/Wizard_Boss_2.png"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "0.1",
+  "coney": {
+    "prologue": [
+      "[User] walks along the road. Searching for eggs.",
+      "[User] waves at the fellow conoras of the land.",
+      "[User] walks around the castle. They take a good look at the stronghold land."
+    ],
+    "dialogue": [
+      "One of the younglings hands [User] some eggs. They tell [User] that they found [Pro1] in front of their home and want them to protect it.",
+      "All of a sudden, some eggs lands into [User]'s basket out of no where. They wonder what their journey has been.",
+      "A singing merchant greets [User] as she hands them some eggs she found in her shop.",
+      "[User] walks past a stack of rocks and find some eggs resting on top of it.",
+      "Jethro waves at [User] to come to him. He stands tall as he hands [User] some eggs. [User] thanks him kindly.",
+      "[User] decides to stop by the tavern for a drink. The bartender hands [User] a cold one with some eggs beside it. [User] both toast to a fantastic day."
+    ]
+  },
+  "hulking": {
+    "prologue": [
+      "The wind brushes against [User]'s face as they walk through the endless field of crops.",
+	  "[User] follows the trail through The Hulking Fields. They gaze at the bright sun leading them to the eggs ahead.",
+	  "[User] glances at the small craters across the lands. They feel sad to see this place so destroyed."
+    ],
+    "dialogue": [
+      "[User] spots some eggs in between some crops. Some of the crops were damaged.",
+	  "[User] finds a long piece of rope from one of the small floating islands. When they reach up, they see some eggs in the very middle resting on some grass.",
+	  "[User] walks up to one of the craters and spots some eggs. Looks like it survived the fall from the floating island above.",
+	  "While [User] gazes at a nearby floating island, some eggs rolls to their feet. They wonder where they came from."
+    ]
+  },
+  "woodlands": {
+    "prologue": [
+      "[User] wanders past endless amounts of trees that seem to be thinner than they are.",
+	  "[User] takes a note as they walk through the forest that the trees are higher than normal trees usually are.",
+	  "[User] accidentally bumps into a tree and it falls to the opposite direction. They quietly keep walking.",
+	  "[User] jumps over a large river that seems to be coming from the Oracle Rivers.",
+	  "Suddenly, winds push against the trees and the branches start falling. [User] tries their best to get out of there."
+    ],
+    "dialogue": [
+      "One of the branches breaks off and falls on top of [User]'s head. They noticed that there is some eggs stuck to it.",
+	  "In the corner of their eye, they spot some eggs on the top of the tree. They slowly climb up the top and grab it.",
+	  "[User] finds some eggs underneath a fallen tree. They pick it up without breaking it.",
+	  "A bird flies up to [User] and they extend their arm for it to land on. Underneath it's wings is some eggs. After collecting, the bird flies off to find more for them.",
+	  "The crimson wizard flies by and [User] hides underneath a thin tree. When he is out of sight, they see some eggs fall from the sky and they catch it."
+    ]
+  },
+  "oracle": {
+    "prologue": [
+      "[User] looks around and see all of the thin streams of water going in every direction. They decided to choose the stream on their right and follow it.",
+	  "[User] walks past a couple watchtowers and wonder how long they've been there.",
+	  "[User] takes a sip of the water from the stream and their body feels purified.",
+	  "The gentle wind on [User]'s face keeps them relaxed as they look for more eggs.",
+	  "[User] finds a coin in their pocket and tosses it into the stream and wishes for more eggs."
+    ],
+    "dialogue": [
+	  "[User] sees some eggs floating across the stream. They quickly pick them up before [Pro] float away.",
+	  "[User] climbs up a nearby watchtower and finds some eggs stuffed in the corner. They wonder if somebody has been saving them.",
+	  "Some locals near the middle of the rivers give [User] some eggs. They trust you to bring it back to the stronghold.",
+	  "It starts raining and [User] sees some eggs fall from the sky! Luckily they ended up catching [Pro]."
+    ]
+  },
+  "crimson": {
+    "prologue": [
+      "[User] walks past the floating crystals and feels a disturbing aura from them.",
+	  "[User] hides from the crimson minions after a stressful walk. They've never been so scared in your life.",
+	  "The soil tries to trap your feet with every step [User] takes. What happened here?"
+    ],
+    "dialogue": [
+      "After a crimson minion float away, some eggs dropped behind it and [User] takes them before it knows.",
+	  "The crimson wizard appears before [User]. He cracks a smile and hands them some eggs and then vanishes. He must of been feeling generious today.",
+	  "[User] smashes a few crystals to find some eggs stored in them. They feel corrupted and they hurry back to the stronghold before anything serious happens."
+    ]
+  },
+  "ethereal": {
+    "prologue": [
+      "[User] gazes in awe as they look into the distance. What a beautiful place this is.",
+	  "[User] walks past the grand tree. They feel like it is trying to talk to them somehow.",
+	  "The animals of the garden greet [User] on arrival. They've never seen such interesting creatures before.",
+	  "[User] watches the birds fly above them. They wonder where their journey is."
+    ],
+    "dialogue": [
+      "A Honey Zebra gives [User] some eggs. It must understand why they are here.",
+	  "[User] sees something trapped inside an ethereal crystal. Using a rock beside them, they shatter the crystal and pick up some eggs from the remains.",
+	  "[User] climbs the grand tree and finds some eggs within it's branches.",
+	  " The birds drop some eggs right above [User] and [Pro] lands on their head."
+    ]
+  },
+  "void": {
+    "prologue": [
+      "[User] carefully flies through the void. They can hear faint screams and strange noises."
+    ],
+    "dialogue": [
+      "Something glows brightly near [User]. They see some eggs around the glowing aura. What power is this?"
+    ]
+  }
+}

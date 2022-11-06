@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "map": "Placeholder",
+  "coney": {
+	"name": "The Cottontail Valley",
+    "description": "The Cottontail Valley is the heart of Coneyford. Protected by Jethro, the king, the valley is a vast greenland filled with town folk and an evergrowing civilization. Over the last decade, it has been a struggle dealing with the crimson war against the wizard and it's creations.\n\n However, the conoras still stay strong and push through their differences to make an impact on not only themselves but others around them. Recently they built taverns and towns to recover from the damages caused in the crimson grove. Now there is no place like home than the valley.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "hulking": {
+	"name": "The Hulking Fields",
+    "description": "The Hulking Fields is nothing but flat terrain and excellent soil. You could go for long walks without disruption and allow the gentle breeze to brush against your face.\n\nEven though the ground looks pale and dry, the rich dirt is infused with the rivers of the Oracle Streams, giving it infused magical traits and abilities.\n\nFor years, many fruits and vegetables were grown here like dreamberries, okranuts, dearlans and more! Because of the magic of the soil, it takes mere days instead of months and years to grow stock for the people of Coneyford to enjoy.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "woodlands": {
+	"name": "The Harewing Jungle",
+    "description": "The Harewing Jungle is a dense jungle of forests and caves that never seem to end. The jungle is mostly filled up with trees and mysterous creatures but has endless supply of wood due to its mass number of evergrowing trees. ",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "oracle": {
+  	"name": "The Oracle Rivers",
+    "description": "The main strip of water connects to all of the areas of Coneyford. It is the junction that gives life to the forests of the woodlands and the beauty of the tropical gardens. The properties of the water were so clean that you could drink straight from the stream.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "ethereal": {
+  	"name": "The Ethereal Gardens",
+    "description": "A mysterious jungle throbbing with life with a glowing sky and sparkling water. In the distance from wherever you send, you will see multiple waterfalls, thriving wildlife, bright wisps and fairies and interesting beings. Some of the locals of Coneyford actually live in this part of the continent, who prefer to be one with nature and away from society.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "crimson": {
+	"name": "The Crimson Grove",
+    "description": "An enchanted land surrounded by arcane energy. A place deserted after being corrupted by the Crimson Wizard. It is full of abandoned structures, magical forests, and unusual creatures.\n\nMost of the people who are held captive were experimented on with arcane powers and are very dangerous. So dangerous that upon returning to the capital were immediately banished for the corruption that sunk in their body.\n\nWhen the crimson wizard is not in the realm he resides in, this is where he usually is. This is the most dangerous area to explore but it also holds the rarest of eggs.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "void": {
+	"name": "The Arcane Void",
+    "description": "The Arcane Void is a endless space of time and corrupted power. Mere mortals who enter this place often become corrupted by the destructive power. Those who last long enough suffer from madness because of the aura of arcane magic and strange sounds that occur from them.\n\nThe Crimsonologists of Coneyford have extracted the power from this void very recently and began studying it's raw chaotic nature.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  }
+}

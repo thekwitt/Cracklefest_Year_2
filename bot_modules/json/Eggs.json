@@ -1,0 +1,2598 @@
+{
+  "version": "0.1",
+  "regular_eggs": [
+    {
+      "id": "10001",
+      "name": "Violet Egg",
+      "type": "Solid",
+      "emoji": "<:10001:820185236926496788>",
+      "description": "Garth\u0027s Favorite Color. He grows violet flowers because of how pretty they are. He loves the smell of them around his house too."
+    },
+    {
+      "id": "10002",
+      "name": "Rainbow Egg",
+      "type": "Solid",
+      "emoji": "<:10002:820185236855586816>",
+      "description": "Whitney\u0027s Favorite Color. Her personality shines bright with this egg as she loves to express herself."
+    },
+    {
+      "id": "10003",
+      "name": "Green Egg",
+      "type": "Solid",
+      "emoji": "<:10003:820185236825964564>",
+      "description": "Ezaf\u0027s Favorite Color. It represents his passion for nature and the wilderness. He commonly visits the ethereal gardens."
+    },
+    {
+      "id": "10004",
+      "name": "Yellow Egg",
+      "type": "Solid",
+      "emoji": "<:10004:820185236825440286>",
+      "description": "Zilra\u0027s Favorite Color. Every morning she gets up just to watch the beautiful sunrise and watch the colors unfold in her eyes."
+    },
+    {
+      "id": "10005",
+      "name": "Blue Egg",
+      "type": "Solid",
+      "emoji": "<:10005:820185236817313812>",
+      "description": "Hollis\u0027s Favorite Color. Born with a unique talent of being able to swim swiftly and cunningly. He commonly visits the Oracle Rivers."
+    },
+    {
+      "id": "10006",
+      "name": "Snowy Egg",
+      "type": "Solid",
+      "emoji": "<:10006:820185236797259786>",
+      "description": "Fausta\u0027s Favorite Color. The color of protein in eggs which she eats regularly to keeps up her already impressive physique."
+    },
+    {
+      "id": "10007",
+      "name": "Dark Egg",
+      "type": "Solid",
+      "emoji": "<:10007:820185236796735508>",
+      "description": "Hini\u0027s Favorite Color. Often known for burning food he cooks, even though it is his favorite way of cooking for some reason."
+    },
+    {
+      "id": "10008",
+      "name": "Red Egg",
+      "type": "Solid",
+      "emoji": "<:10008:820185236784152586>",
+      "description": "Otger\u0027s Favorite Color. Red usually helps him realize how much he needs to work on his anger."
+    },
+    {
+      "id": "10009",
+      "name": "Orange Egg",
+      "type": "Solid",
+      "emoji": "<:10009:820185236767375380>",
+      "description": "Julie\u0027s Favorite Color. Often, Julie likes to snack on fruit or veggies, most commonly oranges and carrots."
+    },
+    {
+      "id": "10010",
+      "name": "Purple Egg",
+      "type": "Solid",
+      "emoji": "<:10010:820185236767113247>",
+      "description": "Hakon\u0027s Favorite Color. The symbol of Arcane Energy. His fascination with it proves to be his downfall as he cannot weld such power. He commonly visits the crimson grove."
+    },
+    {
+      "id": "10011",
+      "name": "Gold Egg",
+      "type": "Solid",
+      "emoji": "<:10011:820185236595671111>",
+      "description": "Wolter\u0027s Favorite Color. Gifted gold by his very king, he treasures it with his life as it shows a symbol of trust and honor for him and his own kind."
+    },
+    {
+      "id": "10101",
+      "name": "Honey Zebra Egg",
+      "type": "Zebra",
+      "emoji": "<:10101:820185676020187177>",
+      "description": "The Honey Zebra is faster than your typical Zebra. Some have also said the meat tastes sweeter."
+    },
+    {
+      "id": "10102",
+      "name": "Grass Zebra Egg",
+      "type": "Zebra",
+      "emoji": "<:10102:820185674233020426>",
+      "description": "The Grass Zebras green coat allow them to hide better from predators."
+    },
+    {
+      "id": "10103",
+      "name": "Cookies n Cream Zebra Egg",
+      "type": "Zebra",
+      "emoji": "<:10103:820185674111516712>",
+      "description": "The iconic pattern resembles a normal zebra but this one has a twist. If the zebra is left in the sun way too long it starts to melt. The conoras are still unable to figure out why."
+    },
+    {
+      "id": "10104",
+      "name": "Lava Zebra Egg",
+      "type": "Zebra",
+      "emoji": "<:10104:820185673989488651>",
+      "description": "The Lava Zebra can withstand hot temperatures and even stand in fire. Their skin is also so hot that it can easily melt the touch of others."
+    },
+    {
+      "id": "10105",
+      "name": "Iced Zebra Egg",
+      "type": "Zebra",
+      "emoji": "<:10105:820185673771778064>",
+      "description": "The Iced Zebras can withstand cold temperatures. They also feel more comfortable in the north of the Ethereal Gardens."
+    },
+    {
+      "id": "10201",
+      "name": "Crimson Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10201:820185794924380201>",
+      "description": "The Crimson Zebras are a manifestation of arcane power and they are not truly a zebra, even though it does act like one. Unlike the crimson wizard, they do not wish to harm others and prefer to live peacefully."
+    },
+    {
+      "id": "10202",
+      "name": "Golden Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10202:820185794823585823>",
+      "description": "The Golden Tigers represent leadership and growth. They often lead packs to help to battles or new homes."
+    },
+    {
+      "id": "10203",
+      "name": "Mossy Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10203:820185794818867200>",
+      "description": "The Mossy Tigers are the masters of hunting as they can blend in easily with their skin. Every day, they bring their own weight in food for the rest of their kin."
+    },
+    {
+      "id": "10204",
+      "name": "Wild Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10204:820185794508619797>",
+      "description": "The Wild Tigers are very ferocious creatures that often live alone. Their formidable strength can outweigh five others."
+    },
+    {
+      "id": "10205",
+      "name": "Instinct Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10205:820185794391965727>",
+      "description": "The Instinct Tigers are masters of wit and strategy. They provide the golden tigers knowledge to command, conquer and survive."
+    },
+    {
+      "id": "10206",
+      "name": "Water Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10206:959556825576001577>",
+      "description": "The Crimson Zebras are a manifestation of arcane power and they are not truly a zebra, even though it does act like one. Unlike the crimson wizard, they do not wish to harm others and prefer to live peacefully."
+    },
+    {
+      "id": "10207",
+      "name": "Pale Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10207:959556825315954699>",
+      "description": "The Golden Tigers represent leadership and growth. They often lead packs to help to battles or new homes."
+    },
+    {
+      "id": "10208",
+      "name": "Frog Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10208:959556825311768646>",
+      "description": "The Mossy Tigers are the masters of hunting as they can blend in easily with their skin. Every day, they bring their own weight in food for the rest of their kin."
+    },
+    {
+      "id": "10209",
+      "name": "Candy Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10209:959556825290784798>",
+      "description": "The Wild Tigers are very ferocious creatures that often live alone. Their formidable strength can outweigh five others."
+    },
+    {
+      "id": "10210",
+      "name": "Honor Tiger Egg",
+      "type": "Tiger",
+      "emoji": "<:10210:959556825286582322>",
+      "description": "The Instinct Tigers are masters of wit and strategy. They provide the golden tigers knowledge to command, conquer and survive."
+    },
+
+    {
+      "id": "10301",
+      "name": "Leafed Reptile Egg",
+      "type": "Reptile",
+      "emoji": "<:10301:820186385130455080>",
+      "description": "The Leafed Reptiles have very Fragile Skin that can be rip apart by the very winds. Due to this condition, they are endangered. However, the conoras make sure they have a safe home on the Ethereal Gardens by keeping them on the grand tree."
+    },
+    {
+      "id": "10302",
+      "name": "Ripe Reptile Egg",
+      "type": "Reptile",
+      "emoji": "<:10302:820186385080123401>",
+      "description": "The Ripe Reptile's Life Cycle is kind of unusual."
+    },
+    {
+      "id": "10303",
+      "name": "Amethyst Reptile Egg",
+      "type": "Reptile",
+      "emoji": "<:10303:820186384841048075>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10304",
+      "name": "Water Reptile Egg",
+      "type": "Reptile",
+      "emoji": "<:10304:820186384777478155>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10305",
+      "name": "Fire Reptile Egg",
+      "type": "Reptile",
+      "emoji": "<:10305:820186384715087893>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10401",
+      "name": "Rose Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10401:820186508346392577>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10402",
+      "name": "Mint Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10402:820186508275351552>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10403",
+      "name": "Butterfly Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10403:820186508220432414>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10404",
+      "name": "Hornet Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10404:820186508073369631>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10405",
+      "name": "Vanilla Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10405:820186507955404811>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10406",
+      "name": "Mint Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10406:959552446093463622>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10407",
+      "name": "Ocean Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10407:959552446085087242>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10408",
+      "name": "Orange Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10408:959552445976027166>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10409",
+      "name": "Candy Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10409:959552445976027146>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10410",
+      "name": "Honor Giraffe Egg",
+      "type": "Giraffe",
+      "emoji": "<:10410:959552445883768913>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10501",
+      "name": "Molten Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10501:820186966237773824>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10502",
+      "name": "Grayscaled Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10502:820186966061613116>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10503",
+      "name": "Aqua Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10503:820186966057680946>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10504",
+      "name": "Polar Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10504:820186966049816586>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10505",
+      "name": "Ocean Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10505:820186965554495580>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10506",
+      "name": "Playful Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10506:959541866192330842>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10507",
+      "name": "Honor Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10507:959541866137784390>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10508",
+      "name": "Frog Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10508:959541866079084544>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10509",
+      "name": "Water Wave Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10509:959541866070675466>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10510",
+      "name": "Candy Cow Egg",
+      "type": "Cow",
+      "emoji": "<:10505:820186965554495580>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10601",
+      "name": "Hamburger Egg",
+      "type": "Food",
+      "emoji": "<:10601:820187189773074452>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10602",
+      "name": "Melon Egg",
+      "type": "Food",
+      "emoji": "<:10602:820187189894709258>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10603",
+      "name": "Pineapple Egg",
+      "type": "Food",
+      "emoji": "<:10603:820187189534523436>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10604",
+      "name": "Pink Tree Egg",
+      "type": "Food",
+      "emoji": "<:10604:820187189819342878>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10605",
+      "name": "Strawberry Egg",
+      "type": "Food",
+      "emoji": "<:10605:820187189921054731>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10606",
+      "name": "Avocado Egg",
+      "type": "Food",
+      "emoji": "<:10606:820187189848834069>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10607",
+      "name": "Blue Tree Egg",
+      "type": "Food",
+      "emoji": "<:10607:820187189798895646>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10701",
+      "name": "Lava Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10701:820188276396392478>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10702",
+      "name": "Moss Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10702:820188276266369024>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10703",
+      "name": "Cotton Candy Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10703:820188276261388318>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10704",
+      "name": "Vanilla Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10704:820188276186415144>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10705",
+      "name": "Honey Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10705:820188276115111936>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10706",
+      "name": "Violet Combo Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10706:820188276094664725>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10707",
+      "name": "Aqua Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10707:820188276060323850>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10708",
+      "name": "Jungle Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10708:820188275980632075>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10709",
+      "name": "Checkered Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10709:820188275947601941>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10710",
+      "name": "Teal Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10710:820188275858866187>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10711",
+      "name": "Peach Lime Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10711:959578177188036628>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10712",
+      "name": "Honor Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10712:959578177183821874>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10713",
+      "name": "Caramel Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10713:959578177129291786>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10714",
+      "name": "Fresh Sand Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10714:959578177116708914>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10715",
+      "name": "Mint Chocolate Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10715:959578177108320316>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10716",
+      "name": "Melon Swirl Egg",
+      "type": "Swirl",
+      "emoji": "<:10716:959578176797958205>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10801",
+      "name": "Party Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10801:820188476384608276>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10802",
+      "name": "Purple Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10802:820188476346990592>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10803",
+      "name": "Pink Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10803:820188476326281237>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10804",
+      "name": "Ocean Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10804:820188476312911872>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10805",
+      "name": "Gray Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10805:820188476301508618>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10806",
+      "name": "Rich Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10806:820188476262973462>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10807",
+      "name": "Lava Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10807:820188476251176980>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10808",
+      "name": "Chocolate Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10808:820188476200321044>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10809",
+      "name": "Skybox Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10809:820188476195471360>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10810",
+      "name": "Moss Dotted Egg",
+      "type": "Dotted",
+      "emoji": "<:10810:820188475894136863>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10901",
+      "name": "Dark Blue Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10901:820188812642353192>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10902",
+      "name": "Grass Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10902:820188812624920627>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10903",
+      "name": "Honey Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10903:820188812621381692>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10904",
+      "name": "Volcano Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10904:820188812596215869>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10905",
+      "name": "Sapphire Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10905:820188812578652191>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10906",
+      "name": "Fire Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10906:820188812545884160>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10907",
+      "name": "ethereal Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10907:820188812473794591>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10908",
+      "name": "Ruby Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10908:820188812386500619>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10909",
+      "name": "Lava Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10909:820188812235243540>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10910",
+      "name": "Ocean Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10910:820188812172329041>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10911",
+      "name": "Passion Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10911:959584347273457734>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10912",
+      "name": "Coral Songs Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10912:959584347055329302>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10913",
+      "name": "Honor Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10913:959584347025985586>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "10914",
+      "name": "Lava Rock Glass Egg",
+      "type": "Glass",
+      "emoji": "<:10914:959584346979827722>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11001",
+      "name": "Cute Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11001:820188999720894464>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11002",
+      "name": "Lime Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11002:820188999683538965>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11003",
+      "name": "Honey Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11003:820188999678820372>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11004",
+      "name": "Matrix Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11004:820188999670038539>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11005",
+      "name": "Sunny Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11005:820188999654178849>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11006",
+      "name": "River Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11006:820188999641333770>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11007",
+      "name": "Fire Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11007:820188999624687626>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11008",
+      "name": "Oasis Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11008:820188999619575848>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11009",
+      "name": "Vio Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11009:820188999543947276>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11010",
+      "name": "Candy Hexigon Egg",
+      "type": "Hexigons",
+      "emoji": "<:11010:820188999372111883>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11101",
+      "name": "Faded Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11101:820189420996526080>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11102",
+      "name": "Swamp Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11102:820189420925091850>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11103",
+      "name": "Vanilla Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11103:820189420924829716>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11104",
+      "name": "Cotton Candy Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11104:820189420883017728>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11105",
+      "name": "Zebra Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11105:820189420861915157>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11106",
+      "name": "Candy Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11106:820189420665438229>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11107",
+      "name": "Caramel Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11107:820189420606586893>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11108",
+      "name": "Lollipop Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11108:820189420568444980>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11109",
+      "name": "Skyhigh Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11109:820189420471713793>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11110",
+      "name": "Water Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11110:820192460617285632>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11111",
+      "name": "Honor Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11111:959594081737125928>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11112",
+      "name": "Deep Sea Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11112:959594081657454612>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11113",
+      "name": "Rich Lava Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11113:959594081586151474>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11114",
+      "name": "Midnight Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11114:959594081586143242>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11115",
+      "name": "Ocean Beach Melted Egg",
+      "type": "Melted",
+      "emoji": "<:11115:959594081292546119>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11201",
+      "name": "Wandering Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11201:820190082002059294>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11202",
+      "name": "Sunny Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11202:820190081909784586>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11203",
+      "name": "Hot Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11203:820190081838088233>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11204",
+      "name": "Ocean Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11204:820190081821966376>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11205",
+      "name": "Lime Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11205:820190081788542996>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11206",
+      "name": "Grass Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11206:820190081670709268>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11207",
+      "name": "Teal Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11207:820190081603469314>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11208",
+      "name": "Shallow Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11208:820190081541341185>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11209",
+      "name": "Amethyst Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11209:820190081519976449>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11210",
+      "name": "Calm Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11210:820190081423114281>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11211",
+      "name": "Honor Triangle Egg",
+      "type": "Triangle",
+      "emoji": "<:11211:959595901888893038>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11301",
+      "name": "Ruby Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11301:820190401402372116>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11302",
+      "name": "Spring Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11302:820190401277329438>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11303",
+      "name": "Candy Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11303:820190401239318528>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11304",
+      "name": "Joyful Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11304:820190401142718474>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11305",
+      "name": "Orange Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11305:820190401067089932>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11306",
+      "name": "Bright Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11306:820190401037598762>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11307",
+      "name": "Ocean Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11307:820190400945193021>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11308",
+      "name": "Coco Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11308:820190400907706370>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11309",
+      "name": "Opposite Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11309:820190400874414081>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11310",
+      "name": "Midnight Wavey Egg",
+      "type": "Waves",
+      "emoji": "<:11310:820190400748847105>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11401",
+      "name": "Sunny ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11401:820191112475312141>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11402",
+      "name": "Sunset ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11402:820191112449884190>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11403",
+      "name": "Moss ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11403:820191112362590248>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11404",
+      "name": "Pink ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11404:820191112357609492>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11405",
+      "name": "Bold ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11405:820191112240562216>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11406",
+      "name": "Hawaii ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11406:820191112206614529>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11407",
+      "name": "Odd ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11407:820191112093761537>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11408",
+      "name": "Lava ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11408:820191112060731403>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11409",
+      "name": "Dark ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11409:820191111954956319>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11410",
+      "name": "Beach ZigZag Egg",
+      "type": "ZigZag",
+      "emoji": "<:11410:820191081823600641>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11501",
+      "name": "Blue Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11501:826676066806268004>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11502",
+      "name": "Red Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11502:826676066705080331>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11503",
+      "name": "Purple Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11503:826676066654617610>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11504",
+      "name": "Lime Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11504:826676066617786368>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11505",
+      "name": "Gold Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11505:826676066609266698>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11506",
+      "name": "Light Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11506:826676066599829524>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11507",
+      "name": "Aqua Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11507:826676066566406164>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11508",
+      "name": "Midnight Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11508:826676730609139742>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11509",
+      "name": "Pink Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11509:826676066339782657>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11510",
+      "name": "Green Diamond Egg",
+      "type": "Diamonds",
+      "emoji": "<:11510:826676066323136543>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11601",
+      "name": "Pink Star Egg",
+      "type": "Stars",
+      "emoji": "<:11601:826677330553339944>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11602",
+      "name": "Red Star Egg",
+      "type": "Stars",
+      "emoji": "<:11602:826677330520702986>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11603",
+      "name": "Orange Star Egg",
+      "type": "Stars",
+      "emoji": "<:11603:826677330453331987>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11604",
+      "name": "Grass Star Egg",
+      "type": "Stars",
+      "emoji": "<:11604:826677330419908608>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11605",
+      "name": "Vanilla Star Egg",
+      "type": "Stars",
+      "emoji": "<:11605:826677330410733568>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11606",
+      "name": "Corrupt Star Egg",
+      "type": "Stars",
+      "emoji": "<:11606:826677330294341653>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11607",
+      "name": "Blue Star Egg",
+      "type": "Stars",
+      "emoji": "<:11607:826677330205605909>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11608",
+      "name": "Aqua Star Egg",
+      "type": "Stars",
+      "emoji": "<:11608:826677330118311956>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11609",
+      "name": "Sun Star Egg",
+      "type": "Stars",
+      "emoji": "<:11609:826677330059329548>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11610",
+      "name": "Disco Star Egg",
+      "type": "Stars",
+      "emoji": "<:11610:826677329941757983>",
+      "description": "Placeholder"
+	},
+    {
+      "id": "11701",
+      "name": "Pink Watery Egg",
+      "type": "Water",
+      "emoji": "<:11701:826677510401818654>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11702",
+      "name": "Cotton Watery Egg",
+      "type": "Water",
+      "emoji": "<:11702:826677510346375239>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11703",
+      "name": "Midnight Watery Egg",
+      "type": "Water",
+      "emoji": "<:11703:826677510338510888>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11704",
+      "name": "Lava Watery Egg",
+      "type": "Water",
+      "emoji": "<:11704:826677510305480715>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11705",
+      "name": "Orange Watery Egg",
+      "type": "Water",
+      "emoji": "<:11705:826677510279528518>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11706",
+      "name": "Pink Watery Egg",
+      "type": "Water",
+      "emoji": "<:11706:826677510275072000>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11707",
+      "name": "Ocean Watery Egg",
+      "type": "Water",
+      "emoji": "<:11707:826677509999165461>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11708",
+      "name": "Beach Watery Egg",
+      "type": "Water",
+      "emoji": "<:11708:826677509999165450>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11709",
+      "name": "Moss Watery Egg",
+      "type": "Water",
+      "emoji": "<:11709:826677509956960267>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11710",
+      "name": "Heavenly Watery Egg",
+      "type": "Water",
+      "emoji": "<:11710:826677509953290253>",
+      "description": "Placeholder"
+	},
+    {
+      "id": "11711",
+      "name": "Lime Watery Egg",
+      "type": "Water",
+      "emoji": "<:11711:826677509948440607>",
+      "description": "Placeholder"
+	},
+  {
+    "id": "11712",
+    "name": "Honor Watery Egg",
+    "type": "Water",
+    "emoji": "<:11712:959613941913370644>",
+    "description": "Placeholder"
+},
+	{
+      "id": "11801",
+      "name": "Honey Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11801:826677692677881907>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11802",
+      "name": "Royal Blue Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11802:826677692614967326>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11803",
+      "name": "Purple Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11803:826677692556509204>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11804",
+      "name": "Orange Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11804:826677692543664188>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11805",
+      "name": "Sky Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11805:826677692501983255>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11806",
+      "name": "Crimson Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11806:826677692488613958>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11807",
+      "name": "Moss Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11807:826677692379693056>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11808",
+      "name": "Hot Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11808:826677692308783126>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11809",
+      "name": "Deep Blue Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11809:826677692229091408>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11810",
+      "name": "Cyan Pattern Egg",
+      "type": "Mix 1",
+      "emoji": "<:11810:826677692056207391>",
+      "description": "Placeholder"
+	},
+    {
+      "id": "11901",
+      "name": "Golden Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11901:826678104482512896>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11902",
+      "name": "Jungle Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11902:826678104394563604>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11903",
+      "name": "Dark Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11903:826678104385650739>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11904",
+      "name": "Swamp Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11904:826678104272535612>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11905",
+      "name": "Orange Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11905:826678104243044392>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11906",
+      "name": "Ocean Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11906:826678104230592532>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11907",
+      "name": "Traditional Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11907:826678104201887754>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11908",
+      "name": "Sky Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11908:826678104159420446>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11909",
+      "name": "Lava Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11909:826678104005148683>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "11910",
+      "name": "Midnight Castle Egg",
+      "type": "Castle",
+      "emoji": "<:11910:826678103983390721>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12001",
+      "name": "Crimson Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12001:826678341271683092>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12002",
+      "name": "Pink Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12002:826678341167742976>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12003",
+      "name": "Purple Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12003:826678340945051660>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12004",
+      "name": "Grass Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12004:826678340903501854>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12005",
+      "name": "Ocean Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12005:826678340886462484>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12006",
+      "name": "Cyan Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12006:826678340810309692>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12007",
+      "name": "Yellow Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12007:826678340794318899>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12008",
+      "name": "Checkered Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12008:826678340684480522>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12009",
+      "name": "Honey Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12009:826678340634542121>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12010",
+      "name": "Blue Medieval Egg",
+      "type": "Unique",
+      "emoji": "<:12010:826678340333076521>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12101",
+      "name": "Blood Moon Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12101:826678478089879602>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12102",
+      "name": "Pretty Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12102:826678478081884190>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12103",
+      "name": "Sunny Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12103:826678478022901820>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12104",
+      "name": "Dawn Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12104:826678478022639686>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12105",
+      "name": "Sunrise Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12105:826678477989085184>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12106",
+      "name": "Candy Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12106:826678477876363304>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12107",
+      "name": "Corrupted Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12107:826678477867581470>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12108",
+      "name": "Ocean Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12108:826678477775831060>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12109",
+      "name": "Purple Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12109:826678477683949569>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12110",
+      "name": "Sky Cloud Egg",
+      "type": "Clouds",
+      "emoji": "<:12110:826678477398867999>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12201",
+      "name": "Midnight Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12201:826678649486049280>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12202",
+      "name": "Grand Golden Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12202:826678649394561024>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12203",
+      "name": "Grand Corrupted Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12203:826678649322602526>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12204",
+      "name": "Grayscaled Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12204:826678649305825331>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12205",
+      "name": "Purple Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12205:826678649297698846>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12206",
+      "name": "Peachy Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12206:826678649293242369>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12207",
+      "name": "Pink Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12207:826678649281314826>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12208",
+      "name": "Jungle Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12208:826678649134120981>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12209",
+      "name": "Swamp Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12209:826678649109348393>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12210",
+      "name": "Vanilla Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12210:826678649092309014>",
+      "description": "Placeholder"
+	},
+	{
+      "id": "12211",
+      "name": "Golden Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12211:826678649087852544>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12212",
+      "name": "Lime Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12212:826678648958353429>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12213",
+      "name": "Ocean Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12213:826678648911298561>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12214",
+      "name": "Candy Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12214:826678648853102593>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12215",
+      "name": "Lava Flower Egg",
+      "type": "Flowers",
+      "emoji": "<:12215:826678648374951977>",
+      "description": "Placeholder"
+    },    
+	{
+      "id": "12301",
+      "name": "Space Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12301:827024550431817769>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12302",
+      "name": "Mint Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12302:827024550184091648>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12303",
+      "name": "Grape Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12303:827024550054461520>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12304",
+      "name": "Cherry Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12304:827024549983027250>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12305",
+      "name": "Razz Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12305:827024549941608448>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12306",
+      "name": "Strawberry Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12306:827024549941084231>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12307",
+      "name": "Lemon Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12307:827024549807128607>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12308",
+      "name": "Berry Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12308:827024549618122783>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12309",
+      "name": "Orange Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12309:827024549568708668>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12310",
+      "name": "Melon Ice Cream Egg",
+      "type": "Cream",
+      "emoji": "<:12310:827024549307875339>",
+      "description": "Placeholder"
+	},    
+	{
+      "id": "12401",
+      "name": "Void Rip 1",
+      "type": "Void",
+      "emoji": "<:12401:832484923783905350>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12402",
+      "name": "Void Rip 2",
+      "type": "Void",
+      "emoji": "<:12402:832484923751399444>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12403",
+      "name": "Void Rip 3",
+      "type": "Void",
+      "emoji": "<:12403:832484924090351647>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12404",
+      "name": "Void Rip 4",
+      "type": "Void",
+      "emoji": "<:12404:832484923863466034>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12405",
+      "name": "Void Rip 5",
+      "type": "Void",
+      "emoji": "<:12405:832484924052865044>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12406",
+      "name": "Void Rip 6",
+      "type": "Void",
+      "emoji": "<:12406:832484924094939146>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12407",
+      "name": "Void Rip 7",
+      "type": "Void",
+      "emoji": "<:12407:832484923961114655>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12408",
+      "name": "Void Rip 8",
+      "type": "Void",
+      "emoji": "<:12408:832484924295610388>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12409",
+      "name": "Void Rip 9",
+      "type": "Void",
+      "emoji": "<:12409:832484923968585739>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12410",
+      "name": "Void Rip 10",
+      "type": "Void",
+      "emoji": "<:12410:832484924153790505>",
+      "description": "Placeholder"
+	},
+    {
+      "id": "12411",
+      "name": "Void Rip 11",
+      "type": "Void",
+      "emoji": "<:12411:832484924484616192>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12412",
+      "name": "Void Rip 12",
+      "type": "Void",
+      "emoji": "<:12412:832484923935948801>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12413",
+      "name": "Void Rip 13",
+      "type": "Void",
+      "emoji": "<:12413:832484924161654785>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12414",
+      "name": "Void Rip 14",
+      "type": "Void",
+      "emoji": "<:12414:832484923910389761>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12415",
+      "name": "Void Rip 15",
+      "type": "Void",
+      "emoji": "<:12415:832484924270575639>",
+      "description": "Placeholder"
+	},    
+	{
+      "id": "12501",
+      "name": "The Egg of Abjuration",
+      "type": "Spell",
+      "emoji": "<:12501:832485398495100928>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12502",
+      "name": "The Egg of Conjuration",
+      "type": "Spell",
+      "emoji": "<:12502:832485398612934676>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12503",
+      "name": "The Egg of Divination",
+      "type": "Spell",
+      "emoji": "<:12503:832485398591963166>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12504",
+      "name": "The Egg of Transmutation",
+      "type": "Spell",
+      "emoji": "<:12504:832485398792896542>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12505",
+      "name": "The Egg of Evocation",
+      "type": "Spell",
+      "emoji": "<:12505:832485398768910397>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12506",
+      "name": "The Egg of Illusion",
+      "type": "Spell",
+      "emoji": "<:12506:832485398601138226>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12507",
+      "name": "The Egg of Necromancy",
+      "type": "Spell",
+      "emoji": "<:12507:832485398780837919>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12508",
+      "name": "The Egg of Enchantment",
+      "type": "Spell",
+      "emoji": "<:12508:832485398487498763>",
+      "description": "Placeholder"
+    },    
+	{
+      "id": "12601",
+      "name": "Arcane Fury of Blood",
+      "type": "Fury",
+      "emoji": "<:12601:832485362051055657>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12602",
+      "name": "Arcane Fury of Ice",
+      "type": "Fury",
+      "emoji": "<:12602:832485362110169159>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12603",
+      "name": "Arcane Fury of Corruption",
+      "type": "Fury",
+      "emoji": "<:12603:832485362454495253>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12604",
+      "name": "Arcane Fury of Nature",
+      "type": "Fury",
+      "emoji": "<:12604:832485362235867157>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12605",
+      "name": "Arcane Fury of Equality",
+      "type": "Fury",
+      "emoji": "<:12605:832485362416615434>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12606",
+      "name": "Arcane Fury of Tranquility",
+      "type": "Fury",
+      "emoji": "<:12606:832485362411896872>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12607",
+      "name": "Arcane Fury of Twilight",
+      "type": "Fury",
+      "emoji": "<:12607:832485362474549298>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12608",
+      "name": "Arcane Fury of Hatred",
+      "type": "Fury",
+      "emoji": "<:12608:832485362479136778>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12609",
+      "name": "Arcane Fury of Flow",
+      "type": "Fury",
+      "emoji": "<:12609:832485362202050592>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "12610",
+      "name": "Arcane Fury of Light",
+      "type": "Fury",
+      "emoji": "<:12610:832485362261295135>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12701",
+      "name": "Sparkle Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12701:959587830038949918>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12702",
+      "name": "Spicy Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12702:959587830001205339>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12703",
+      "name": "Night Sky Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12703:959587829984419930>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12704",
+      "name": "Sky Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12704:959587829967626270>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12705",
+      "name": "Mint Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12705:959587829959249940>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12706",
+      "name": "Mellow Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12706:959587829955047434>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12707",
+      "name": "Sea Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12707:959587829908901938>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12708",
+      "name": "Playtime Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12708:959587829896323082>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12709",
+      "name": "Mystery Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12709:959587829892137020>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12710",
+      "name": "Honey Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12710:959587829871153203>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12711",
+      "name": "Bee Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12711:959587829858598932>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12712",
+      "name": "Cotton Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12712:959587829837606982>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12713",
+      "name": "Confused Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12713:959587829833429082>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12714",
+      "name": "French Water Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12714:959587829808238632>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12715",
+      "name": "Jelly Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12715:959587829791473695>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12716",
+      "name": "Fuchsia Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12716:959587829778899055>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12717",
+      "name": "Streamline Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12717:959587829749534762>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12718",
+      "name": "Coffee Break Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12718:959587829682425866>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12719",
+      "name": "Honor Hive Egg",
+      "type": "Hive",
+      "emoji": "<:12719:959590487533191248>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12801",
+      "name": "Ocean Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12801:963604125117972490>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12802",
+      "name": "Lava Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12802:963604125201891388>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12803",
+      "name": "Sky Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12803:963604125566771250>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12804",
+      "name": "Depressed Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12804:963604125583564800>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12805",
+      "name": "Cheese Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12805:963604125852004393>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12806",
+      "name": "Grass Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12806:963604125864583208>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12807",
+      "name": "Candy Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12807:963604125982011423>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12808",
+      "name": "Corrupt Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12808:963604126158176256>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12809",
+      "name": "Ghostly Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12809:963604126376263740>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12810",
+      "name": "Sunny Side Horned Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12810:963604126497898506>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12811",
+      "name": "Depressed Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12811:963604983654260736>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12812",
+      "name": "Corrupted Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12812:963604762136301659>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12813",
+      "name": "Grass Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12813:963604762069205062>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12814",
+      "name": "Ocean Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12814:963604761855295538>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12815",
+      "name": "Lava Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12815:963604061704298546>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12816",
+      "name": "Sunny Side Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12816:963604061888864286>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12817",
+      "name": "Cheese Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12817:963604061607821342>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12818",
+      "name": "Candy Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12818:963604061586857994>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12819",
+      "name": "Ghost Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12819:963604061544910890>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12820",
+      "name": "Sky Burning Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12820:963604061398134824>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12821",
+      "name": "Sunny Side Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12821:963604158005542942>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12822",
+      "name": "Ghost Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12822:963604157992947712>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12823",
+      "name": "Corrupted Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12823:963604157963571221>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12824",
+      "name": "Candy Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12824:963604157741301830>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12825",
+      "name": "Grass Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12825:963604157636431912>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12826",
+      "name": "Sky Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12826:963604157527367690>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12827",
+      "name": "Lava Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12827:963604157481226260>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12828",
+      "name": "Depressed Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12828:963604157275717732>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12829",
+      "name": "Cheese Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12829:963604157225373716>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12830",
+      "name": "Ocean Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12830:963604157028270120>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12831",
+      "name": "Cheese Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12831:963660040684851220>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12832",
+      "name": "Grass Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12832:963660039552393276>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12833",
+      "name": "Lava Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12833:963660039451738122>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12834",
+      "name": "Ghost Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12834:963660039393001512>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12835",
+      "name": "Corrupted Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12835:963660039212630106>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12836",
+      "name": "Sunny Side Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12836:963660039091027968>",
+      "description": "Placeholder"
+	  },
+    {
+      "id": "12837",
+      "name": "Ocean Spellcaster Skull Egg",
+      "type": "Skull",
+      "emoji": "<:12837:963660038969376808>",
+      "description": "Placeholder"
+	  }
+  ],
+  "collectible_eggs": [
+    {
+      "id": "20101",
+      "name": "Jethro\u0027s Sapphire Egg",
+      "type": "Coney",
+      "emoji": "<:20101:820194660399316992>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20102",
+      "name": "Jethro\u0027s Emerald Egg",
+      "type": "Coney",
+      "emoji": "<:20102:820194660143595530>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20103",
+      "name": "Jethro\u0027s Topaz Egg",
+      "type": "Coney",
+      "emoji": "<:20103:820194660127473664>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20104",
+      "name": "Jethro\u0027s Ruby Egg",
+      "type": "Coney",
+      "emoji": "<:20104:820194659892592681>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20105",
+      "name": "Jethro\u0027s Lapis Egg",
+      "type": "Coney",
+      "emoji": "<:20105:820194659442884641>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20201",
+      "name": "Chocolate Dotted Egg",
+      "type": "Hulking",
+      "emoji": "<:20201:820194554970898432>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20202",
+      "name": "Chocolate Swirl Egg",
+      "type": "Hulking",
+      "emoji": "<:20202:820194554959233044>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20203",
+      "name": "Chocolate Dipped Egg",
+      "type": "Hulking",
+      "emoji": "<:20203:820194554812563486>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20204",
+      "name": "Chocolate Star Egg",
+      "type": "Hulking",
+      "emoji": "<:20204:820194554778484769>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20205",
+      "name": "Chocolate Hive Egg",
+      "type": "Hulking",
+      "emoji": "<:20205:820194554682408961>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20301",
+      "name": "African Mahogany Egg",
+      "type": "Woodlands",
+      "emoji": "<:20301:820195175912701962>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20302",
+      "name": "Cherry Wood Egg",
+      "type": "Woodlands",
+      "emoji": "<:20302:820195175791460352>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20303",
+      "name": "Highlighted Walnut Egg",
+      "type": "Woodlands",
+      "emoji": "<:20303:820195175766425600>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20304",
+      "name": "Golden Oak Egg",
+      "type": "Woodlands",
+      "emoji": "<:20304:820195175711506453>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20305",
+      "name": "Hot Rosewood Egg",
+      "type": "Woodlands",
+      "emoji": "<:20305:820195175686733855>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20401",
+      "name": "Dragon Of The Sea Egg",
+      "type": "Oracle",
+      "emoji": "<:20401:820195287778852864>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20402",
+      "name": "Dragon Of The Fortune Egg",
+      "type": "Oracle",
+      "emoji": "<:20402:820195287657086981>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20403",
+      "name": "Dragon Of The Earth Egg",
+      "type": "Oracle",
+      "emoji": "<:20403:820195287632445450>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20404",
+      "name": "Dragon Of The Sky Egg",
+      "type": "Oracle",
+      "emoji": "<:20404:820195287599415296>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20405",
+      "name": "Dragon Of The Fury Egg",
+      "type": "Oracle",
+      "emoji": "<:20405:820195287263870988>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20501",
+      "name": "Golden Arcane Zombie Egg",
+      "type": "Crimson",
+      "emoji": "<:20501:820195381312225300>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20502",
+      "name": "Fire Arcane Zombie Egg",
+      "type": "Crimson",
+      "emoji": "<:20502:820195381287321650>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20503",
+      "name": "Water Arcane Zombie Egg",
+      "type": "Crimson",
+      "emoji": "<:20503:820195381215756299>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20504",
+      "name": "Jungle Arcane Zombie Egg",
+      "type": "Crimson",
+      "emoji": "<:20504:820195381174206474>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20505",
+      "name": "Dark Arcane Zombie Egg",
+      "type": "Crimson",
+      "emoji": "<:20505:820195381111291904>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20601",
+      "name": "Purple Essence Egg",
+      "type": "Ethereal",
+      "emoji": "<:20601:820195522316861480>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20602",
+      "name": "Green Essence Egg",
+      "type": "Ethereal",
+      "emoji": "<:20602:820195522219868160>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20603",
+      "name": "Red Essence Egg",
+      "type": "Ethereal",
+      "emoji": "<:20603:820195522216067102>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20604",
+      "name": "Yellow Essence Egg",
+      "type": "Ethereal",
+      "emoji": "<:20604:820195522160754688>",
+      "description": "Placeholder"
+    },
+    {
+      "id": "20605",
+      "name": "Blue Essence Egg",
+      "type": "Ethereal",
+      "emoji": "<:20605:820195522072543262>",
+      "description": "Placeholder"
+    }
+  ]
+}
